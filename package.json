@@ -1,0 +1,19 @@
+{
+  "name": "your-data-site",
+  "version": "1.0.0",
+  "description": "Your Data to strona pokazująca podstawowe dane o użytkowniku które każdy może pobrać za pomocą javascriptu",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "esbuild ./src/index.js --bundle --outfile=./docs/js/index.js"
+  },
+  "author": "CraftAll",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.12.8"
+  }
+}
