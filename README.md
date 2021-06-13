@@ -5,4 +5,4 @@ Do tych danych należą: rozdzielczość ekranu, procent naładowania baterii, u
 
 UWAGA ! Strona moze nie dzialać poprawnie na przeglądarkach nie opartych na silniku Chrome'a, np. na Firefoxie wyświetlać się będzie tylko informacja o rozdzielczości.
 
-Stronę można przeglądać na stronie: http://144.91.94.29
+Stronę można przeglądać pod adresem: http://144.91.94.29
