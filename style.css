@@ -1,0 +1,94 @@
+body{
+    background-color: #252626;
+}
+
+#title{
+    font-family: sans-serif;
+    font-size: 50px;
+    color: #dbdbdb;
+}
+
+#sresolution{
+    font-family: sans-serif;
+    color: #dbdbdb;
+    font-size: 25px;
+}
+#bpercentage{
+    font-family: sans-serif;
+    color: #dbdbdb;
+    font-size: 25px;
+}
+#bdetection{
+    font-family: sans-serif;
+    color: #dbdbdb;
+    font-size: 25px;
+}
+#osdetecion{
+    font-family: sans-serif;
+    color: #dbdbdb;
+    font-size: 25px;
+}
+#datedetection{
+    font-family: sans-serif;
+    color: #dbdbdb;
+    font-size: 25px;
+}
+#ipdetection{
+    font-family: sans-serif;
+    color: #dbdbdb;
+    font-size: 25px;
+}
+#citydetection{
+    font-family: sans-serif;
+    color: #dbdbdb;
+    font-size: 25px;
+}
+#countrydetection{
+    font-family: sans-serif;
+    color: #dbdbdb;
+    font-size: 25px;
+}
+
+.links{
+    text-decoration: none;
+    color: #dbdbdb
+}
+.links:hover{
+    text-decoration: underline;
+}
+
+#notwork{
+    color: #dbdbdb;
+    width: 320px;
+    height: 30px;
+    padding: 3px;
+    background-color:#252626;
+    border-radius: 30px;
+    font-size: 18px;
+    text-align: center;
+    font-family: sans-serif;
+    position: fixed;
+    bottom: 15px;
+}
+
+
+.problem{
+    font-family: sans-serif;
+    color: #23abb0;
+    font-size: 50px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.answer{
+    font-family: sans-serif;
+    color: #dbdbdb;
+    font-size: 25px;
+    margin-left: 10px;
+}
+#git{
+    text-decoration: none;
+    color: #23abb0;
+}
+#git:hover{
+    text-decoration: underline;
+}
